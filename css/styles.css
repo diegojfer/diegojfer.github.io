@@ -1,0 +1,17 @@
+h1 {
+    font-size: 45px;
+}
+
+body { 
+    padding: 100px;
+    text-align: center;
+    font: 20px Helvetica, sans-serif;
+    color: #030303;
+}
+
+article {
+    display: block;
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+}
